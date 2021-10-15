@@ -1,0 +1,9 @@
+Assets/_CompletedDemos/UnityOcclusionDemoCompleted/UnityOcclusionDemo.unity
+Assets/_CompletedDemos/3DCharacterUI/3DCharacterUI.unity
+Assets/_WipDemos/ScriptableRenderPasses/BlurryRefractions.unity
+Assets/_CompletedDemos/CockpitView/CockpitDemo.unity
+Assets/_CompletedDemos/FPS/FPSCameraCompletedStackedWithTerrain/FPSCameraDemoStackedWithTerrain.unity
+Assets/_WipDemos/ScriptableRenderPasses/PlanarReflections.unity
+Assets/_WipDemos/Portals/PortalsDemo.unity
+Assets/_WipDemos/ScriptableRenderPasses/ScreenEffect.unity
+Assets/_CompletedDemos/ToonOutlinePostprocessCompleted/ToonOutlinePost.unity

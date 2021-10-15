@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 4004129712
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f3d5340b3a53f666488c217a6a1706e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/CockpitDemo.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.diff.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/PlanarReflections.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/UnityOcclusionDemo.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.expected.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/3DCharacterUI.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/PortalsDemo.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/ScreenEffect.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithTotallyDifferentImages_ThrowsAssertionException.diff.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WithSlightlyDifferentImages_SucceedsWithAppropriateTolerance.expected.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/BlurryRefractions.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/3DSkybox.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/AreEqual_WidthDifferentSizeImages_ThrowsAssertionException.png
+- Assets/ReferenceImages/Linear/OSXPlayer/Metal/None/FPSCameraDemoStackedWithTerrain.png
+Dependencies: []
